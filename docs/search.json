@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-07T08:53:39+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Lota lota and other biota",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-01-07T08:53:40+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

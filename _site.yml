@@ -1,0 +1,12 @@
+name: "Lota-lota-and-other-biota"
+title: "Lota lota and other biota"
+description: |
+  Lota lota and other biota
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
