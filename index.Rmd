@@ -1,5 +1,11 @@
 ---
-title: "Lota lota and other biota"
+title: "Posts"
 site: distill::distill_website
 listing: posts
 ---
+
+```{r, echo=FALSE, layout="l-page" }
+library(knitr)
+include_graphics("images/burbot.jpg")
+```
+

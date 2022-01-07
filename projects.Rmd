@@ -1,0 +1,10 @@
+---
+title: "Projects"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is where I will list my cool projects.

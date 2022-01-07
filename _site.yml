@@ -9,4 +9,13 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
+    - icon: fab fa-researchgate
+      href: https://www.researchgate.net/profile/Henry-Hansen-3
+    - icon: fab fa-github-alt fa-1x
+      href: https://github.com/henryhansen
+    - icon: fab fa-twitter fa-1x
+      href: https://twitter.com/henry_h_hansen
 output: distill::distill_article
+theme: theme.css
