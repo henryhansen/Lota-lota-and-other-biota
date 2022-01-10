@@ -7,4 +7,22 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is where I will list my cool projects.
+### RIBES
+
+RIBES (River flow regulation, fish BEhaviour and Status) European Training Network (ETN) will train 15 ESRs in the interdisciplinary field of Ecohydraulics to find innovative solutions for freshwater fish protection and river continuity restoration in anthropogenically altered rivers.
+ - dam removal model
+
+### Sustainable Development of Small-Scale fisheries
+ - policy brief
+ - sdg paper
+
+### Lake Winnipeg Basin Fish Movement
+ - catfish movement
+ - bigmouth buffalo/catfish
+
+### Applications of Remote Sensing for Aquatic Biology
+ - aqua spy
+ - aeroecology
+
+### Aging Infrastructure in Lotic Ecosystems
+ - exit here
